@@ -1,21 +1,46 @@
 *{
     color:#27272799
+    margin:0px;
 }
 .header{
-    padding-left: 80px;
+    padding-left: 120px;
     background-color: #E554731A;
     border:0px;
     margin-bottom: 5px;
+    display:flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    padding-top: 20px;
+    
 }
 .first-heading{
     width: 708px;
     color: #272727;
     font-family: Lato;
-    font-size: 70px;
+    font-size: 67px;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 750px;
+    margin-bottom: 10px;
 
 }
 .first-description{
-    width:634px;
+    width:550px;
+    margin-top: 0px;
+    padding-top: 0%;
+    font-size:17px;
+}
+.first-image{
+    width: 450px;
+    height: 600px;
+}
+.button{
+    border:0px;
+    border-radius: 5px;
+    background-color: #E55473;
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 700;
+    margin-top: 10PX;
+    height: 30px;
+    widht:80px;
 }
