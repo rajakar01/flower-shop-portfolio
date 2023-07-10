@@ -1,0 +1,21 @@
+*{
+    color:#27272799
+}
+.header{
+    padding-left: 80px;
+    background-color: #E554731A;
+    border:0px;
+    margin-bottom: 5px;
+}
+.first-heading{
+    width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+.first-description{
+    width:634px;
+}
