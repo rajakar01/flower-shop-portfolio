@@ -88,3 +88,85 @@
     margin-right: 100px;
     padding-right: 100px;
 }
+/* Hot deal offer */
+.deal{
+    display:flex;
+    justify-content: center;
+    height: 580px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 150px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.heading-two{
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 35%;
+    margin-right:80x;
+}
+.description-three{
+    width: 594px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.button-two{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-bottom: 35px;
+}
+.photo-one{
+    margin-top:100px;
+    margin-left:100px;
+}
+#red{
+    color:red;
+}
+/* instragram related box */
+.instragram{
+    text-align: center;
+}
+.heading-three{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom:0px;
+}
+.description-four{
+        width: 594px;
+        font-size: 18px;
+        font-weight: 400;
+        display: flex;
+        justify-content: center;
+        margin-left: 30%;
+        margin-bottom:40px;
+    }
+ .all-photo{
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+    .photo-two{
+        width: 250px;
+        height: 396px;
+        margin-right: 10px;
+    }
+    .photo-three{
+        width: 250px;
+        height: 396px;
+        margin-right: 10px;
+    }
+    .photo-four{
+        width: 250px;
+        height: 396px;
+        margin-right: 10px;
+    }
+    .photo-five{
+        width: 250x;
+        height: 396px;
+
+    }
