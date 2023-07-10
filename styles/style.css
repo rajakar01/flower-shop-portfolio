@@ -2,6 +2,7 @@
     color:#27272799
     margin:0px;
 }
+/* header */
 .header{
     padding-left: 120px;
     background-color: #E554731A;
@@ -42,5 +43,48 @@
     font-weight: 700;
     margin-top: 10PX;
     height: 30px;
-    widht:80px;
+    width: 80px;
+}
+/* main part */
+.bonus{
+   text-align: center;
+   margin:200px;
+}
+.heading{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.two-description{
+    width: 580px;
+    display: inline-flex;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.extra{
+    display:flex;
+    margin:0px 100px 10px 100px;
+    justify-content: space-evenly; 
+    text-align: center;
+    justify-items: center;
+    margin-top: 0px;
+}
+.extra-one, .extra-two, .extra-three{
+    width: 420px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 10px;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+.one,.two,.three{
+    width: 420px;
+    height: 450px;
+    margin-top: 50px;
+    margin-right: 100px;
+    padding-right: 100px;
 }
